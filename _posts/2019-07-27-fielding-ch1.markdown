@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fielding REST Dissertation - Chapter 1"
-date:   2019-07-17 22:17:22 -0500
+date:   2019-07-27 14:17:22 -0500
 categories: Paper analysis
 ---
 
